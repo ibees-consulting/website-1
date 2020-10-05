@@ -1,7 +1,14 @@
+#  Business Multi Cloud Solutions
 
-## Terraform and Odoo Community
 
-- Infrastructure Automation with Terraform for Cloud
+## Terraform and Odoo
 
-- Cloud Infrastrucure for Odoo Community Business APPs
+- Infrastructure Automation with Terraform
 
+- Infrastrucure for Odoo Community Business APPs
+
+
+
+
+Odoo Multi Cloud Solution
+=====
