@@ -1,5 +1,5 @@
 
-## Terraform and Odoo
+## Terraform and Odoo Community
 
 - Infrastructure Automation with Terraform for Cloud
 
