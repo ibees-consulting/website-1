@@ -9,6 +9,5 @@
 - Infrastrucure for Odoo Community Business APPs
 
 
-=====
 Odoo Multi Cloud Solution
 =====
