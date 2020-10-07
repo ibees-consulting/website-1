@@ -1,10 +1,6 @@
-#  Open-Source Community Driven Business Multi Cloud Solutions
+#  Open-Source Business Multi Cloud Solutions
 
-# Tools
-
-## Terradoo = Odoo + Terraform ( Open-Source Solutions )
-
-## Terraform and Odoo Community
+## Open-Source-Software around Infrastructure Automation **Terraform** and **Odoo Community** Business APPs
 
 
 - Infrastructure Automation with **Terraform**
