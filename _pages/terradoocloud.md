@@ -1,11 +1,12 @@
 ---
 layout: single
-author_profile: true
 permalink: /
 ---
 
-# What is Terradoo Cloud ?
---------------------------
+# Terradoo Cloud
+
+# What is ?
+-----------
 
 # Why ?
 -------
