@@ -4,6 +4,8 @@ author_profile: true
 permalink: /
 ---
 
+{{ content }}
+
 # Terradoo Cloud
 ----------------
 
