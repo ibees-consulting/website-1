@@ -1,9 +1,11 @@
 ---
-layout: single
+layout: home
+author_profile: true
 permalink: /
 ---
 
 # Terradoo Cloud
+----------------
 
 # What is ?
 -----------

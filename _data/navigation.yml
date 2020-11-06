@@ -2,8 +2,6 @@
 main:
   - title: "Terradoo Cloud"
     url: "/"
-  - title: "About"
-    url: /about/
   # - title: "Sample Posts"
   #   url: /year-archive/
   # - title: "Sample Collections"
