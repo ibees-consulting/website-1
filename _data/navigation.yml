@@ -1,5 +1,9 @@
 # main links
 main:
+  - title: "Home"
+    url: "/"
+  - title: "About"
+    url: "/about/"
   - title: "Documentation"
     url: "https://documentation.terradoo.cloud"
   - title: "GitHub"

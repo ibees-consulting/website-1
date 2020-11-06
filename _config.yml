@@ -1,11 +1,11 @@
 theme: minimal-mistakes-jekyll
-minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "plum" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "en-US"
 title: "Open-Source Multi Cloud Solutions around Odoo Community"
 title_separator          : "-"
-subtitle                 : "Terraforming around Odoo Community" # site tagline that appears below site title in masthead
+subtitle                 : "Odoo Infrastructures with Terraform" # site tagline that appears below site title in masthead
 name: "Terradoo Cloud"
 description: "Odoo Infrastructures with Terraform"
 url: "https://web.terradoo.cloud"
@@ -13,10 +13,9 @@ baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : "/assets/images/TerradooCloud-web.png" # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : "/assets/images/TerradooCloud-web.png" # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
-favicon                  : "/assets/images/TerradooCloud-web.ico"
 masthead_title           : "Open-Source Multi Cloud Solutions around Odoo Community" # overrides the website title displayed in the masthead, use " " for no title
 breadcrumbs            : false # true, false (default)
-words_per_minute         : 200
+words_per_minute         : 0
 comments:
   provider               : # false (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "custom"
   disqus:
@@ -81,8 +80,8 @@ analytics:
 
 # Site Author
 author:
-    name             : "Terradoo Cloud"
-    avatar           : "/assets/images/TerradooCloud-web.png"
+    name             : "JuanDCG"
+    avatar           : "/assets/images/JuanDCG-profile.jpg"
     bio              : "I want to build a Open Source Community to build Open-Source Multi Cloud Solutions around Odoo Community."
     location         : "Internet"
   
@@ -119,9 +118,7 @@ footer:
   
 
 # Reading Files
-include:
-  - .htaccess
-  - _pages
+include: ["_pages"]
 exclude:
   - vendor
   - .asset-cache
@@ -145,11 +142,8 @@ exclude:
   - Rakefile
   - README
   - tmp
-  - /docs # ignore Minimal Mistakes /docs
-  - /test # ignore Minimal Mistakes /test
 keep_files:
   - .git
-  - .svn
 encoding: "utf-8"
 markdown_ext: "markdown,mkdown,mkdn,mkd,md"
 
