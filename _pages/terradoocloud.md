@@ -59,4 +59,4 @@ How you can help ?
 
 Writting Content, Coding Software, Testing Quality, Suggesting Issues, Asking, Answering...
 
-You can help participating anyway. Be Free.
+You can help participating anyway. Be Free !
