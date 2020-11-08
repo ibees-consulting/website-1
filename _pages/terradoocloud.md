@@ -27,8 +27,6 @@ Anywhere, you can choose your Cloud Provider or set up an Multi Cloud Solution, 
 
 You can Design your own Solution that meet your needs based on the proposals of Terradoo Cloud.
 
-Terradoo Cloud 
-
 
 For What ?
 ==========
