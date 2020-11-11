@@ -5,7 +5,7 @@ minimal_mistakes_skin    : "plum" # "air", "aqua", "contrast", "dark", "dirt", "
 locale                   : "en-US"
 title: "Open-Source Multi Cloud Solutions around Odoo Community"
 title_separator          : "-"
-subtitle                 : "Odoo Infrastructures with Terraform" # site tagline that appears below site title in masthead
+subtitle                 : "Odoo Community Infrastructures with Open Source" # site tagline that appears below site title in masthead
 name: "Terradoo Cloud"
 description: "Odoo Infrastructures with Terraform"
 url: "https://web.terradoo.cloud"
