@@ -7,7 +7,7 @@ title: "Open-Source Multi Cloud Solutions around Odoo Community"
 title_separator          : "-"
 subtitle                 : "Odoo Community Infrastructures with Open Source" # site tagline that appears below site title in masthead
 name: "Terradoo Cloud"
-description: "Odoo Infrastructures with Terraform"
+description: "Odoo Community Infrastructures with Open Source"
 url: "https://web.terradoo.cloud"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
