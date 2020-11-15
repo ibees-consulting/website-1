@@ -3,17 +3,17 @@ minimal_mistakes_skin    : "contrast" # "air", "aqua", "contrast", "dark", "dirt
 
 # Site Settings
 locale                   : "en-US"
-title: "Open-Source Multi Cloud Solutions around Odoo Community"
+title                    : "Odoo Multi Cloud Native"
 title_separator          : "-"
-subtitle                 : "Odoo Community Infrastructures with Open Source" # site tagline that appears below site title in masthead
-name: "Terradoo Cloud"
-description: "Odoo Community Infrastructures with Open Source"
-url: "https://web.terradoo.cloud"
+subtitle                 : "Odoo Multi Cloud Native" # site tagline that appears below site title in masthead
+name                     : "Terradoo Cloud"
+description              : "Odoo Multi Cloud Native"
+url                      : "https://web.terradoo.cloud"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : "/assets/images/TerradooCloud-web.png" # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : "/assets/images/TerradooCloud-web.png" # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
-masthead_title           : "Open-Source Multi Cloud Solutions around Odoo Community" # overrides the website title displayed in the masthead, use " " for no title
+masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 breadcrumbs            : false # true, false (default)
 words_per_minute         : 0
 comments:
