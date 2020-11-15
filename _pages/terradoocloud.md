@@ -9,4 +9,4 @@ permalink: /
 =============================================
 
 
-Refers to [Documentation](https://documentation.terradoo.cloud)
+Refers to [Documentation](https://documentation.terradoo.cloud/)

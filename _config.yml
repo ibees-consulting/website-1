@@ -81,8 +81,8 @@ analytics:
 # Site Author
 author:
     name             : "JuanDCG"
-    avatar           : "/assets/images/JuanDCG-profile.jpg"
-    bio              : "I want to build a Open Source Community to build Open-Source Multi Cloud Solutions around Odoo Community."
+    avatar           : ""
+    bio              : ""
     location         : "Internet"
   
     links:
@@ -91,7 +91,7 @@ author:
         url: "mailto:contact@terradoo.cloud"
       - label: "Documentation"
         icon: "fas fa-fw fa-book"
-        url: "https://documentation.terradoo.cloud"
+        url: "https://documentation.terradoo.cloud/"
       - label: "GitHub"
         icon: "fab fa-fw fa-github"
         url: "https://github.com/JuanDCG"
@@ -104,10 +104,10 @@ footer:
       url: "mailto:contact@terradoo.cloud"
     - label: "Documentation"
       icon: "fas fa-fw fa-book"
-      url: "https://documentation.terradoo.cloud"
+      url: "https://documentation.terradoo.cloud/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/TerradooCloud"
+      url: "https://github.com/TerradooCloud/"
   
   
 
